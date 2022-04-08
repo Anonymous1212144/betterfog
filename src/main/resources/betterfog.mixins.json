@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "clientmods.betterfog.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "client": [
+    "FogMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
